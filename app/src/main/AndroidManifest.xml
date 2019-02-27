@@ -21,7 +21,8 @@
         <activity android:name=".assistantPrincipalActivity" />
         <activity android:name=".assistantPrincipalOneActivity" />
         <activity android:name=".assistantPrincipalTwoActivity" />
-        <activity android:name=".assistantPrincipalThreeActivity"></activity>
+        <activity android:name=".assistantPrincipalThreeActivity" />
+        <activity android:name=".mapActivity"></activity>
     </application>
 
 </manifest>
